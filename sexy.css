@@ -1,0 +1,102 @@
+@font-face {
+    font-family: 'montserrat-medium', 'montserrat-light';
+    src: url('../Graphics/Fonts/montserrat-medium-webfont.woff') format("woff");
+    src: url('../Graphics/Fonts/montserrat-medium-webfont.woff2') format("woff2");
+    src: url('../Graphics/Fonts/Montserrat-ExtraLight.woff') format("woff");
+    font-weight: normal;
+ }
+
+ html {
+     font-size: 100%
+ }
+
+ body {
+     font-family: "montserrat-medium", "montserrat-light", sans-serif;
+ }
+
+ h1 {
+    font-size: 3rem;
+    text-align: center;
+    padding-top: 1.5rem;
+    margin: 0rem;
+
+ }
+
+ h2 {
+     font-size: 3rem;
+     text-align: center;
+ }
+
+#student {
+    font-family: "montserrat-light", sans-serif, monospace;
+    text-align: center;
+    font-size: 1.5rem;
+ }
+
+p {
+    font-family: "montserrat-light", sans-serif, monospace;
+ }
+
+.container {
+    background-color: #F7EBE2;
+ }
+
+ .holit {
+    background-color: #EFCBA8;
+ }
+
+.light {
+    background-color: #ffffff;
+ }
+
+ .row {
+    margin: 0rem 30rem;
+}
+
+ .work {
+    padding: 1.5rem 3.5rem 1.5rem 3.5rem;
+    text-align: center;
+ }
+
+ figure.c_header_image {
+    width: 100%;
+ }
+
+ #portext {
+    padding: 1.5rem 3.5rem 1.5rem 3.5rem;
+    text-align: center;
+ }
+
+ .middle {
+    padding: 1.5rem auto;
+ }
+
+.imgcol {
+    margin-top: 1.5rem;
+    padding: 1.5rem;
+    width: 100%;
+    float: left;
+}
+
+.text{
+    padding: 1.5rem 3.5rem 1.5rem 1.5rem;
+}
+
+.bits {
+    width: 35%;
+    float:left;
+    padding: 0rem 3rem;   
+}
+
+ #button {
+    color: black;
+    background-color: yellow;
+ }
+
+ .dark {
+    background-color: #1A1A1A;
+ }
+
+ #copyright {
+     color: white;
+ }
